@@ -1,0 +1,1 @@
+{"name":"Local: main","url":"e:\\GitHub\\CodeForces\\2123A. Blackboard Game\\main.py","tests":[{"id":1751464891373,"input":"5\n2\n4\n5\n7\n100\n","output":"Alice\nBob\nAlice\nAlice\nBob\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\GitHub\\CodeForces\\2123A. Blackboard Game\\main.py","group":"local","local":true}
