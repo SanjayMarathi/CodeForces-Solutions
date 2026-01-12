@@ -1,0 +1,1 @@
+{"name":"Local: B","url":"e:\\GitHub\\CodeForces-Solutions\\CF Div 3 23_12_25\\B.cpp","tests":[{"id":1766501686634,"input":"3\n5\n4 15 1 7 9\n3\n2 4 8\n6\n11 13 17 19 23 29\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\GitHub\\CodeForces-Solutions\\CF Div 3 23_12_25\\B.cpp","group":"local","local":true}
